@@ -10,6 +10,12 @@ function userToken(user) {
   }, config.secret);
 }
 
+// After user successfully signs in, give token to user
+exports.signin = function(req, res, next){
+  res.send({ token: userToken(req.user) })
+}
+
+//Sign Up Option
 exports.signup = function(req, res, next){
   const email = req.body.email
   const password = req.body.password
