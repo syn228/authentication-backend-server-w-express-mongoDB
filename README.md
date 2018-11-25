@@ -5,3 +5,4 @@ This backend server can serve as a boiler plate for general authentication set u
 -MongoDB/Mongoose </br>
 -JSON Web Token </br>
 -Passport Strategies </br>
+-Bcrypt </br>
