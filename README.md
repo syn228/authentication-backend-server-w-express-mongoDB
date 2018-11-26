@@ -6,3 +6,5 @@ This backend server can serve as a boiler plate for general authentication set u
 -JSON Web Token </br>
 -Passport Strategies </br>
 -Bcrypt </br>
+</br>
+As seen in the code, the server runs on port 3090.
