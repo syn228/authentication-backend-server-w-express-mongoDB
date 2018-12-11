@@ -1,4 +1,4 @@
-# authentication-backend-server-w-express-mongoDB
+# authentication-back end-server-w-express-mongoDB
 This backend server can serve as a boiler plate for general authentication set up using:
 </br>
 -Node </br>
